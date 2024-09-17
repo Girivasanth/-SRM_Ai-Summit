@@ -1,6 +1,5 @@
 streamlit
 Faker
-pyyaml Faker pandas
 -U gretel-client
 tempfile
 os
