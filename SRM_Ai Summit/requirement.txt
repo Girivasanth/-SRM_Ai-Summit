@@ -1,6 +1,6 @@
 streamlit
 Faker
--U gretel-client
+gretel-client
 tempfile
 os
 ssl 
