@@ -1,6 +1,4 @@
-upgrade pip
 streamlit
 Faker
 gretel-client
-ssl 
 pandas
