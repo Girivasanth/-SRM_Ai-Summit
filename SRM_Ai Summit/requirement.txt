@@ -1,7 +1,6 @@
 streamlit
 Faker
 gretel-client
-tempfile
 os
 ssl 
 pandas
