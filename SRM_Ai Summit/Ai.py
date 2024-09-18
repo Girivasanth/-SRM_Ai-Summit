@@ -36,7 +36,7 @@ st.markdown(hide_st_style, unsafe_allow_html=True)
 
 faker = Faker()
 # Gretel credentials should be configured here
-configure_session(api_key="grtu1e8874939a0766a88d675bb3ea3ebf8050bf632a546f729c4eb76618597ffbcc")
+configure_session(api_key="grtua6c72720ad7624cf15222329d025cae96e16ab66cebf9d24de13f692a12e58f1")
 
 # Get or create a project
 project = create_or_get_unique_project(name="Data-Synthesis")
